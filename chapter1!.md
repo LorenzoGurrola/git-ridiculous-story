@@ -1,10 +1,10 @@
-# Chapter 1
+# Chapter 1!
 
 In a lush valley surrounded by towering mountains, there lived a highland cow named Hamish. His fur was long and shaggy, golden and brown, floating like a cloud in the gentle breeze. Hamish roamed freely with his friends, but he always felt a part of the world that eluded him: technology. Hamish had a dream of joining the Highland Tech Academy, a quirky school where animals learned all sorts of subjects, from programming to digital art.
 
 Each day, Hamish would gaze longingly at a group of students gathered in a clearing, their devices clicking and clacking furiously as they learned the wonders of coding. He often overheard conversations about "git," a magic tool that helped them keep track of their projects. But what did it all mean? He was determined to find out.
 
-One sunny morning, Hamish decided to take the plunge. He approached the academy's entrance, his stomach fluttering with nerves. As he stepped inside, a kind sheep named Lila greeted him. "Welcome, Hamish! Are you ready to learn?"
+One sunny morning, Hamish
 
 Hamish nodded, excitement bubbling within him. "I want to learn how to use git. I’ve heard it's important for programming."
 

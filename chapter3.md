@@ -4,8 +4,4 @@ Hamish took a deep breath. "Because we can create something better together, usi
 
 Days spiraled into a flurry of activity. Lines of code danced across screens, fueled by laughter and a never-ending supply of snacks. Hamish felt the thrill of collaboration, but as the deadline loomed closer, tension grew. One night as they tested the app, it crashed, causing panic.
 
-"No, no, no!" Hamish wailed, frustration welling up. He feared disappointment shadowing the group.
-
-Felix laid a reassuring paw on Hamish’s shoulder. "We can fix this. Let’s figure out what went wrong and use git to revert the changes."
-
-The group rallied. Working together, they traced the error. With newfound confidence, Hamish recalled Mrs. Quokka’s words about being able to go back to a previous state. They restored an earlier version, fixing the mistakes they had made.
+"No, no, no!" Hamish wailed, frustration welling up. He feared disappointment

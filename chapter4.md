@@ -1,6 +1,6 @@
 # Chapter 4
 
-When they finally managed to present their project, the crowd of fellow students erupted in applause. Their app not only helped find lost items, but it also allowed users to create messages and share stories. Hamish felt pride swelling in his chest, leading to a warm, fuzzy feeling of success, and acceptance surrounded him like a warm blanket.
+When they students erupted in applause. Their app not only helped find lost items, but it also allowed users to create messages and share stories. Hamish felt pride swelling in his chest, leading to a warm, fuzzy feeling of success, and acceptance surrounded him like a warm blanket.
 
 Mrs. Quokka beamed as she announced the winners. While they didn’t secure first place, the support and camaraderie they fostered during their project marked their experience as a victory.
 

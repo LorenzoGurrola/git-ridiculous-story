@@ -18,6 +18,6 @@ With a reluctant smile, Hamish agreed. That evening, they sat together under the
 
 As they worked, laughter filled the air, increasing Hamish’s excitement. Finally, he made his first successful commit. "I did it!" he beamed. Felix cheered, and Hamish felt a new kind of determination building within him.
 
-Emboldened by his small success, Hamish faced a new challenge. Their big project was due soon: collaborate on an app that could help other animals find lost items in the highlands. Instead of working alone, Hamish remembered their earlier struggles and proposed including everyone’s ideas. A few classmates raised eyebrows, hesitant about the team dynamics.
+Emboldened by his small success, Hamish faced a new challenge. Their big project was due soon: collaborate on an app that could help other animals find lost items in the highlands. Instead of working alone, Hamish remembered their earlier struggles and proposed including everyone’s ideas. A few classmates
 
 "Why not just have teams?" asked Betty the rabbit, flicking her ears with skepticism.
